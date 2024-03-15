@@ -19,3 +19,4 @@
 * `dataset`
   * `youtube_video_age.csv`: records of how long a video exists in the popular list
   * `youtube.csv`: audience retention curves of YouTube videos
+  * `bilibili.csv`: audience retention curves of Bilibili videos

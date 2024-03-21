@@ -1,0 +1,7 @@
+# Python dependencies required for development
+pandas
+numpy
+matplotlib
+scipy
+svgpath2mpl
+scipy

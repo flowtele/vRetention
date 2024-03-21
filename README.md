@@ -1,5 +1,10 @@
 # YouTube/Bilibili Audience Retention Dataset
 
+## Python libraries used in analysis
+```
+$ pip install -r requirements.txt
+```
+
 ## Format
 
 |__Parameter__|__Description__|
@@ -17,6 +22,6 @@
 ## Directory
 * `analysis`: the analysis used in this paper
 * `dataset`
+  * `bilibili.csv`: audience retention curves of Bilibili videos
   * `youtube_video_age.csv`: records of how long a video exists in the popular list
   * `youtube.csv`: audience retention curves of YouTube videos
-  * `bilibili.csv`: audience retention curves of Bilibili videos

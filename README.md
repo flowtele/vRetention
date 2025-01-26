@@ -25,3 +25,7 @@ $ pip install -r requirements.txt
   * `bilibili.csv`: audience retention curves of Bilibili videos
   * `youtube_video_age.csv`: records of how long a video exists in the popular list
   * `youtube.csv`: audience retention curves of YouTube videos
+
+## Troubeshoot
+* batch response: This repository is over its data quota.
+  - Please download dataset via [link](https://uofi.box.com/s/0hij3kwm9bg83x9dyd0pal9ipalhg0r9).
